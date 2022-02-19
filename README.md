@@ -1,6 +1,8 @@
-# Olá, bem vindo(a) ao meu perfil :smile:
+# Olá, bem vindo(a) ao meu perfil! :smile:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcatalao&color=lightgrey&style=flat-square" alt="lgolin" /> </p>
+Eu sou o Gabriel Catalão, estudante de ADS e desenvolvimento web focado em front-end.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcatalao&color=lightgrey&style=flat-square" alt="gabrielcatalao" /> </p>
 
 <div align="center">
   <a href="https://github.com/gabrielcatalao">
@@ -14,7 +16,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <!-- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
  
 #
