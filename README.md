@@ -1,7 +1,5 @@
 # Olá, bem vindo(a) ao meu perfil! :smile:
 
-Eu sou o Gabriel Catalão, estudante de ADS e desenvolvimento web focado em front-end.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcatalao&color=lightgrey&style=flat-square" alt="gabrielcatalao" /> </p>
 
 <div align="center">
