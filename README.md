@@ -20,7 +20,7 @@
 #
  
 <div style= "display: inline-block" align ="center"> 
-  <a href = "mailto:gabriel.catalao0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+ <!-- <a href = "mailto:gabriel.catalao0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a> -->
   <a href = "https://www.linkedin.com/in/gabrielcatalao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
   <a href = "https://instagram.com/gabrielchl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href = "https://twitter.com/gabriel_catalao" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
